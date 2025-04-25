@@ -23,8 +23,8 @@ A powerful and high-speed **Webhook Spammer** built in Python to send multiple m
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+   git clone https://github.com/Ryuk-LOL/Advanced-Discord-Webhook-Spammer.git
+   cd Advanced-Discord-Webhook-Spammer
 
 Install Dependencies:
 
